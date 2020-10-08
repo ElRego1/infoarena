@@ -49,8 +49,6 @@ class Task {
         // std::cout << std::endl;
       }
     }
-
-
   }
 
   void dfs(int nod) {
